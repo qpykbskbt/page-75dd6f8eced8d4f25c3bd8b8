@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lhvxw.cn/sitemap.xml
